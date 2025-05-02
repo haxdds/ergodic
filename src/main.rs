@@ -1,9 +1,7 @@
-mod core;
-mod engine;
-mod api;
-
 use tokio::net::TcpListener;
 use crossbeam_channel as channel; 
+
+use ergodic::{api, engine, core};
 
 /// Main entry point for the trading engine application
 /// Configures a multi-threaded runtime with 4 worker threads
