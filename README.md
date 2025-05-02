@@ -1,10 +1,10 @@
 # Ergodic
 
-A high-performance trading engine built with Rust, featuring a multi-threaded architecture and HTTP API.
+A high-performance exchange built with Rust, featuring a multi-threaded architecture and HTTP API.
 
 ## Overview
 
-Ergodic is a trading engine that processes orders and executes trades using a multi-threaded architecture. It's built with Rust for performance and reliability, using modern async/await patterns and channels for inter-thread communication.
+Ergodic is an exchange that processes orders and executes trades using a multi-threaded architecture. It's built with Rust for performance and reliability, using modern async/await patterns and channels for inter-thread communication.
 
 ## Features
 
