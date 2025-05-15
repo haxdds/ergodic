@@ -1,5 +1,7 @@
 # Ergodic
 
+I'm learning Rust and so I decided to work on this for fun.
+
 A high-performance exchange built with Rust, featuring a multi-threaded architecture and HTTP API.
 
 ## Overview
